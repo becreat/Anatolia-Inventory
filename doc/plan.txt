@@ -1,0 +1,138 @@
+
+
+Application Function 
+-----------------------------------------
+
+
+1.Dashboard
+2.Order 
+	-New Order
+	-View Orders
+3.Inventory
+	-Suppliers (On the side of screen icons for “Add” “View” “Edit” -Category should be supplier specific. As an example, we have “Anatolia Distribution” as supplier. 
+	 In supplier database we should be able to “Add” category such as “Chicken” and Lamb
+	
+	-Product – ( No Drop Down)
+		-Product (Right Icon to “Add”, “View”, “Edit”)
+		-When Product data Is added the database should include
+			a) Title,
+			b) Supplier Title, 
+			c) Product Code, 
+			d) Supplier Product Code, 
+			e) Tax Type: “15% GST” or “NO GST” from scroll down list, 
+			d) Tax Rate: 15% or “0% as per previous selection
+			e) Default Price 
+			f) Supplier Price, 
+			G) Supplier Nameand then Supplier Category would be loaded 
+			h) Supplier category
+4.Customers– ( icon only )
+	-New Customer
+	-View Customers
+5.Settings –
+	-Profile
+	-CMS
+		-Help Page
+		-How To Use 
+
+
+
+
+
+
+1.Dashboard
+2.Order 
+	-New Order
+	-View Orders
+3.Inventory 
+	-View  Suppliers 
+	-View  Products
+4.Help 
+	-Email Head Office
+	-How To Use
+5.Settings
+	-Profile
+
+
+Additional Page:
+	1.Login Page
+	2.Forget Password page
+	3.Welcome email page
+
+
+
+
+Order Status 
+	draft ----  warning
+	Submitted ----  warning
+	Processed ----
+	Delay -----
+	Cancelled ----- error
+	On Delivery ---- 
+	Accepted ---- positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product 
+	-Product Code
+	-Product Title
+	-Unit i.e. pcs, Kg, Grm, Each, Box
+	-Supplier Product Title
+	-Supplier Product Code
+	-Minimum Stock
+	-Maximum Stock
+	-Current Stock
+	-Default Cost Price
+	-Default Sale Price
+	-Stock Movement
+
+
+
+Shipping Method
+	-Supplier Delivery
+	-Freight
+
+Order Database
+	-Order Number
+	-Supplier Name
+	-Order Date
+	-Required Date
+	-Delivery Date
+	-Order Status
+		-Submitted
+		-Trasnmitted
+		-Processed
+		-Awaiting Delivery
+		-Cancelled
+		-Accepted 

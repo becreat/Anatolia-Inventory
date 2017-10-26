@@ -1,0 +1,46 @@
+Order Status
+	Sup Order Ref number 
+	ETA
+	Trackcking Number 
+	notes
+
+
+
+
+Product :
+	Sell price/Unit Regular Price (Measured by percentage)
+	Discontinued/ ( Disable Product )
+	Done
+	
+
+
+
+
+
+Customer
+
+	Customer Code
+	Change “Tax ID” to “GST/VAT Number” 
+	Address-1
+	Address-2 
+	Delivery Address-1
+	Delivery Address2
+	Default Sales Account (Number Field) 
+	Keep Current Manage Supplier Section 
+	
+
+
+
+
+
+
+
+Supplier : 
+	Supplier Logo
+	Supplier Title
+	Supplier Code
+	Supplier Name
+	Company Name
+	GST Number / Tax Id Number
+	Address-1
+	Address-2

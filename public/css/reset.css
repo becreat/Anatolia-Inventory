@@ -1,0 +1,174 @@
+*{
+	border-radius: 0 !important;
+	outline: none;
+	-webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+body{
+}
+
+
+.ui.grid{
+	margin: 0 !important;
+}
+
+.trim{
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.innerwrap{
+	padding: 10px;
+}
+
+.pull-right{
+	float: right;
+}
+
+
+
+table tr:hover td{
+	background: #eee;
+	cursor: pointer;
+}
+td:hover{
+  background: pink !important;
+}
+
+
+.table-filter{
+	border: none;
+	width: 100%;
+	padding: 10px;
+	font-weight: bold;
+}
+
+.table-filter:focus{
+}
+
+.table-filter option{
+	zoom: 2;
+}
+
+.vsap{
+	height: 10px;
+	clear: both;
+}
+
+.clear{
+  clear: both !important;
+}
+
+
+
+
+.scroll {
+    max-height:450px;
+    overflow-y: scroll;
+
+
+}
+
+
+.scroll.nobar::-webkit-scrollbar{
+	display: none
+}
+.scroll.nobar	::-moz-scrollbar{
+	display: none
+}
+
+.scroll.nobar	::scrollbar{
+	display: none
+}
+
+.button{
+	zoom: 1.2;
+}
+
+.ui-datepicker-div{
+	position: relative;
+}
+
+.datepicker{
+	position: relative;
+}
+
+.ui-datepicker-div{
+	z-index: 1000;
+}
+
+
+/**
+	table status code
+  */
+
+  tr.draft td,.draft{
+  	background-color: #eee;
+  	color: #337b92;
+  }
+
+  tr.submitted td, .submitted{
+  	background-color: #e9faff !important;
+  	color: #337b92 !important;
+  }
+
+  tr.processed td,.processed{
+  	background: #fffbe6!important;
+  	color: #7d6c00!important;
+  }
+
+  tr.delay td,.delay{
+  	background: #fff0f0!important;
+  	color: #cd2929!important
+  }
+
+  tr.cancelled td,.cancelled{
+  	background: #fff0f0!important;
+  	color: #cd2929!important
+  }
+
+  tr.ondelivery td,.ondelivery{
+  	background: #ffddca!important;
+  	color: #ff861b!important;
+  }
+
+  tr.accepted td,.accepted{
+  	background: #eeffe7!important;
+  	color: #3c763d!important;
+  }
+
+  td input{
+    background: #fbf9ce  no-repeat 99% center;
+  }
+
+  td input:disabled{
+    background: #eee  no-repeat 99% center;
+  }
+
+  select{
+    cursor: pointer;
+  }
+
+
+.icon-left{
+  float: left !important;
+  position: relative;
+  left: -10px !important;
+}
+
+.text-blue{
+  color: blue;
+}
+
+
+
+
+
+
+
+
+
+

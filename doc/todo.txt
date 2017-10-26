@@ -1,0 +1,14 @@
+
+
+Remove Product Dimension - Done
+Customer Tax ID :  Add “Customer Tax ID” - Done
+Supplier Tax ID :  Add “Supplier Tax ID” - Done
+Unit Of Measurement : Add, Delete, Edit Unit Of Measurement Type -Done
+Tax Type: Add, Delete, Edit Tax Type -Done
+Export Order Template and file Name needs to be change - Done
+Update UI
+----------------------------------------------------------------------------
+
+Supplier Product Code
+Indivajual Catagory System
+Asper as mentioned in requirement Order Should export and Email  in Three formats XL, Word, and PDF.
